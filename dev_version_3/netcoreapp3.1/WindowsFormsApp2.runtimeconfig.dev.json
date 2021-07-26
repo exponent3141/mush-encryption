@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\expon\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\expon\\.nuget\\packages"
+    ]
+  }
+}
